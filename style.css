@@ -1,0 +1,294 @@
+body {
+    font-family: 'Poppins';
+
+}
+
+body h1 {
+    font-weight: 800;
+}
+
+
+/* navbar */
+.container navbar-brand img {
+    height: 40px;
+    width: 40px;
+}
+
+.navbar {
+    background-color: #171717;
+}
+
+.nav-item {
+    margin-right: 8px;
+}
+
+.nav-item a {
+    color: white !important;
+}
+
+.nav-item a:hover {
+    color: #707070 !important;
+}
+
+/* akhir navbar */
+
+/* carousel */
+
+.carouselExampleControls {
+    height: 100px;
+    background-size: cover;
+
+}
+
+.carousel-item img {
+    background-image: cover;
+    height: 450px !important;
+    background-position: 0 -100;
+}
+
+.carousel-caption {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.btn {
+    border-radius: 25px;
+
+    color: #3dbe71;
+    width: 150px;
+    font-size: large;
+    margin-bottom: 80px;
+
+}
+
+.btn a {
+    text-decoration: none;
+    color: white;
+}
+
+btn a:hover {
+    color: #707070 !important;
+}
+
+/* akhir carousel */
+
+/* visi */
+
+.visi {
+
+
+    overflow: visible;
+}
+
+.visi p {
+    font-weight: 700 !important;
+    overflow: visible;
+}
+
+/* akhir visi */
+
+/* content */
+
+.programkerja {
+    background-color: #c9d8ce;
+
+
+}
+
+
+
+/* akhir content */
+
+/* testimonial */
+#testimonials {
+    background-image: url(img/6.png);
+    background-size: cover;
+    background-position: 0 -500 !important;
+
+}
+
+#customers-testimonial {
+    padding: 40px 0;
+}
+
+.testimonial img {
+    max-width: 159px !important;
+    margin: 0 auto 0 auto !important;
+    border: 2px solid white !important;
+    padding: 5px !important;
+    margin-bottom: 13px;
+}
+
+.testimonial img {
+    max-width: 159px !important;
+    margin: 0 auto 0 auto !important;
+    border: 2px solid white !important;
+    padding: 5px !important;
+    margin-bottom: 13px !important;
+}
+
+.testimonial blockquote {
+    border: 0 !important;
+    font-size: "italic" !important;
+    color: "white" !important;
+    padding: 5px 150px !important;
+    position: relative !important;
+}
+
+.testimonial blockquote:before,
+.testimonial blockquote:after {
+    font-size: 80px;
+    font-size: normal;
+    line-height: 1;
+    width: 30px;
+    height: 30px;
+    position: absolute;
+}
+
+.testimonial blockquote::before {
+    content: "\201C";
+
+    top: 0;
+    left: 100px;
+}
+
+
+.testimonial blockquote::after {
+    content: "\201D";
+
+    bottom: 0;
+    right: 100px;
+}
+
+.testimonial-author p {
+    color: white;
+    font-size: 17px;
+
+}
+
+.testimonial-author p strong {
+    display: block;
+
+
+}
+
+h3 {
+    color: white;
+    text-transform: uppercase;
+}
+
+
+
+
+
+/* akhir testimonial */
+
+/* video  */
+.videocapt {
+    font-weight: 700;
+}
+
+.video {
+    background-color: #c9d8ce;
+}
+
+/* akhir video  */
+
+/*  footer */
+.footer {
+    background-color: black;
+    color: white;
+}
+
+.footer h1 {
+
+    font-weight: 200;
+    font-size: 20px;
+
+}
+
+.footer p {
+    font-size: 10px;
+
+}
+
+.footer {
+    font-size: 10px;
+}
+
+/* akhir footer */
+
+/* test */
+
+.slider-area {
+    background: #262626;
+    padding: 50px 0;
+    position: relative;
+    margin: 0px 0;
+    height: 550px;
+
+}
+
+.carousel-control.left,
+.carousel-control.right {
+    background: transparent;
+
+}
+
+.img-area {
+    width: 100px;
+    height: 100px;
+    margin: auto;
+    border: 2px solid #fff;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-top: 200px;
+    position: relative;
+    bottom: -80px;
+}
+
+.img-area img {
+    width: 100%;
+
+
+
+}
+
+#caption {
+    position: static;
+    padding-bottom: 15px;
+    padding-top: 0;
+}
+
+.carousel-caption span {
+    font-size: 26px;
+    margin-bottom: 15px;
+    margin-top: 25px;
+    bottom: -10px !important;
+    position: relative;
+    text-align: center;
+}
+
+.carousel-caption span p {
+    font-size: 18px;
+    margin: auto;
+    width: 70%;
+    margin-bottom: 10px;
+    bottom: 200px !important;
+    position: relative;
+    text-align: center;
+}
+
+.carosel-caption span .test1 {
+    font-size: 0px;
+    margin-bottom: 15px;
+    margin-top: 25px;
+    bottom: -10px !important;
+    margin-left: 100px;
+    top: 0;
+    left: 0;
+    text-align: center;
+    
+}
+
+/* card */
