@@ -19,7 +19,8 @@
     <!-- google fonts -->
     <link href="https://fonts.googleapis.com/css?family=Poppins:200,400,600,700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
-    <title>LDK ISHLAH Y.A.I</title>
+    <link rel="icon" href="img/logo.png">
+    <title>  LDK ISHLAH Y.A.I</title>
 
     <style>
       
@@ -351,19 +352,30 @@ baca Al-Qur'an"</p>
 
 <div class="container">
 <div class="row">
-<div class="col-lg-5 col-md-5 pt-3">
-<h1 class="font-weight-bold">Sekretariat</>
+<div class="col">
+<p class="moto pt-2">"Together Be Better" </p>
+<hr/ class="garis">
+</div>
+</div>
+<div class="row pb-5">
+<div class="col-lg-5  col-md-5 col-sm-3 pt-2">
+
+
+<h1 class="font-weight-bold   ">Sekretariat</>
 <p>Jl. Diponegoro No. 74 Jakarta Pusat, 
 Indonesia </p>
+
 </div>
-<div class="col-lg-5 col-md-5  font-weight-bold pt-4">
-<p >Copyright 2020 by Sistem Informasi Y.A.I</p>
+<div class="col-lg-5 col-md-5 col-sm-3 font-weight-bold pt-4">
+<section class="copyright"><p >Copyright 2020 by Sistem Informasi Y.A.I</p></section>
 </div>
+<section class="sosmed">
 <div class="col  pt-4  ">
     <img src="img/fb.png" alt="">
     <img src="img/ig.png" alt="">
     <img src="img/twitter.png" alt="">
 </div>
+</section>
 </div>
 </div>
 

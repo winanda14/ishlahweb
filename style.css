@@ -204,11 +204,36 @@ h3 {
 
     font-weight: 200;
     font-size: 20px;
+    padding-top: 30px;
 
+}
+
+.sosmed {
+    margin-left: 64px;
+}
+
+.sosmed img {
+    text-align: right;
+    padding-top: 25px;
+}
+
+.garis {
+    color: white;
+    border: 3px solid;
 }
 
 .footer p {
     font-size: 10px;
+
+}
+
+.footer .moto {
+    font-size: 30px;
+    font-weight: 900;
+}
+
+.footer .copyright {
+    padding-top: 30px;
 
 }
 
@@ -288,7 +313,7 @@ h3 {
     top: 0;
     left: 0;
     text-align: center;
-    
+
 }
 
 /* card */
