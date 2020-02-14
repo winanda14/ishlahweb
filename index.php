@@ -224,7 +224,7 @@
     </div>
           
       <div class="carousel-caption d-none d-block row " id="caption">
-      <h1 style="position:absolute; top:0; ; " class="text-center float-fluid  w-300 pb-3"><span class="col-auto test1 " style="margin-left: 430px">apa kata mereka?</span></h1>
+      <h1 style="position:absolute; top:0; ; " class="text-center float-fluid  w-300 pb-3"><span class="col-auto test1 " style="margin-left: 430px">Apa kata mereka?</span></h1>
       <p style="position:absolute; top:0; margin-left: 10px; margin-top:100px; font-weight:200 font-size:20px;" class="text-center ">
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum dolor, numquam quae nemo fuga consectetur ullam exercitationem officia sit tempore esse aliquid recusandae quod natus ipsum odio nihil ut inventore?"</p>
       <h5 class="font-weight-bold"><span>Ahmad</span></h5>
@@ -353,7 +353,7 @@ baca Al-Qur'an"</p>
 <div class="container">
 <div class="row">
 <div class="col">
-<p class="moto pt-2">"Together Be Better" </p>
+<p class="moto pt-2">"Together be Better" </p>
 <hr/ class="garis">
 </div>
 </div>
