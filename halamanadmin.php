@@ -64,7 +64,7 @@
 <h3 class="pt-2 ml-3 ">Dashboard</h3>
 <hr style="border:3;">
 <div class="container">
-  <div class="test row">
+  <div class="content row">
     <div class="backgroundcard1 col">
 <div class="card " >
   
