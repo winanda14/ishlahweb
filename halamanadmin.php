@@ -35,7 +35,7 @@
   </button>
 
     <div class="icon ml-auto ">
-   <a href=""> <i class="fas fa-sign-out-alt" style="color:white;" data-toggle="tooltip" tittle="log out"></i></a>
+    <a href=""><i class="fas fa-sign-out-alt" style="color:white;" data-toggle="tooltip" data-placement="bottom" title="log out"></i></a>
     </div>
   </div>
 </nav>
