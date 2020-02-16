@@ -27,6 +27,7 @@
     </style>
   </head>
   <body>
+    <!-- navbar -->
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark m-auto">
   <a class="navbar-brand text-center" href="#">HALAMAN ADMIN</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -38,7 +39,9 @@
     </div>
   </div>
 </nav>
+<!-- akhir navbar -->
 
+<!-- awal content -->
 <div class="row no-gutters">
 
 <div class="col-md-2 bg-light ">
@@ -89,6 +92,14 @@
 </div>
 </div>
 </div>
+<!-- akhir content -->
+
+<!-- footer -->
+<footer>
+<p class="text-center">copyright 2020 by Sistem Informasi Y.A.I</p>
+
+</footer>
+<!-- akhir footer -->
     <!-- Optional JavaScript -->
     
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
