@@ -32,7 +32,8 @@
     <section class="navbar">
     <nav class="navbar navbar-expand-lg navbar-dark fixed-top">
       <div class="container">
-  <a class="navbar-brand" href="#"><img src="img/logo.png" alt="ishlah  "></a>
+  <a class="navbar-brand" href="#" data-toggle="tooltip" data-placement="bottom" title="logo.png">
+  <img src="img/logo.png" alt="ishlah  " ></a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
@@ -429,6 +430,9 @@ $(function(){
     
   });
 }); 
+$(function () {
+  $('[data-toggle="tooltip"]').tooltip()
+})
 
 </script>
 
