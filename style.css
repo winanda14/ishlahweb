@@ -186,6 +186,7 @@ h3 {
 /* video  */
 .videocapt {
     font-weight: 700;
+    width: 100px;
 }
 
 .video {
@@ -317,3 +318,9 @@ h3 {
 }
 
 /* card */
+
+/* halaman admin css */
+
+
+
+/* akhir navigasi */
