@@ -96,7 +96,7 @@
 
 <!-- footer -->
 <footer>
-<p class="text-center">copyright 2020 by Sistem Informasi Y.A.I</p>
+<p class="text-center">copyright <i class="far fa-copyright"></i> 2020 by Sistem Informasi Y.A.I</p>
 
 </footer>
 <!-- akhir footer -->
