@@ -193,6 +193,10 @@ h3 {
     background-color: #c9d8ce;
 }
 
+.pemutar {
+    width: 800px;
+}
+
 /* akhir video  */
 
 /*  footer */
@@ -209,18 +213,16 @@ h3 {
 
 }
 
-.sosmed {
-    margin-left: 64px;
-}
-
-.sosmed img {
-    text-align: right;
-    padding-top: 25px;
-}
 
 .garis {
     color: white;
     border: 3px solid;
+}
+
+.footer {
+
+    background-color: black;
+    opacity: 80%;
 }
 
 .footer p {
@@ -240,6 +242,12 @@ h3 {
 
 .footer {
     font-size: 10px;
+}
+
+.subfooter {
+    background: #000;
+    color: white;
+    padding-top: 8px;
 }
 
 /* akhir footer */
