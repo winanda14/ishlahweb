@@ -48,10 +48,10 @@
         <a class="nav-link" href="#">Artikel</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Struktur</a>
+        <a class="nav-link" href="struktur.php">Struktur</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Gallery</a>
+        <a class="nav-link" href="galeri.php">Gallery</a>
       </li>
     </ul>
   </div>
