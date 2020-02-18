@@ -292,6 +292,24 @@ h3 {
 
 
 
+
+/* akhir navigasi */
+/* galeri */
+.galerii {
+	height: 300px;
+	width: 300px;
+	
+}
+.teksgaleri {
+	color: black;
+}
+/* akhir galeri */
+/*tentang halaman struktur */
+.bgtentang {
+	background-color: white;
+}
+/*akhir tentang halaman struktur*/
+
 /*  footer */
 .footer {
     background-color: black;
@@ -345,3 +363,4 @@ h3 {
 
 /* akhir footer */
 /* akhir navigasi */
+
