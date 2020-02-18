@@ -45,7 +45,7 @@
         <a class="nav-link" href="#">Profile</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Artikel</a>
+        <a class="nav-link" href="artikel.php">Artikel</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="struktur.php">Struktur</a>

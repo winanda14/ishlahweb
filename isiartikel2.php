@@ -20,7 +20,7 @@
     <link href="https://fonts.googleapis.com/css?family=Poppins:200,400,600,700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
     <link rel="icon" href="img/logo.png">
-    <title> STRUKTUR ISHLAH</title>
+    <title>  LDK ISHLAH Y.A.I</title>
 
     <style>
       
@@ -32,14 +32,15 @@
     <section class="navbar">
     <nav class="navbar navbar-expand-lg navbar-dark fixed-top">
       <div class="container">
-  <a class="navbar-brand" href="#"><img src="img/logo.png" alt="ishlah  "></a>
+  <a class="navbar-brand" href="#" data-toggle="tooltip" data-placement="bottom" title="logo.png">
+  <img src="img/logo.png" alt="ishlah  " ></a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
   <div class="collapse navbar-collapse" id="navbarNav">
     <ul class="navbar-nav mx-auto">
       <li class="nav-item active">
-        <a class="nav-link " href="index.php" >Beranda <span class="sr-only">(current)</span></a>
+        <a class="nav-link " href="index.php">Beranda <span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#">Profile</a>
@@ -107,18 +108,78 @@
     <!-- akhir carousel -->
 
     <!-- test -->
-    <!-- awal struktur-->
+    
+     <!-- awal artikel -->
 
+<section class="artikel1 pb-5 mb-5">
+<div class="container "> 
+  <div class="row pt-4 pb-3">
+    <div class="col font-weight-bold text-center">
+    </div>
+  </div>
+<center><div class="col">
+  <div class="col-sm-12 col-md-12 col-lg-7" align="justify">
+    <div class="">
 
-    <div class="container text-center mt-5 mb-5 fluid">
-      <h1 class="visi pb-5">STRUKTUR PERIODE 2019-2020</h1>
-      <img src="img/6.png" width="80%" height="900px">
+      <center><h2 class="card-text"><font color="black">"ONE DAY ONE HADIST: KEUTAMAAN MEMBACA AL-QUR'AN"</h2></font></center><br>
+      <img class="card-img-top" src="img/Gambar-Al-Quran-8.jpg" alt="Card image cap"><br>
+      <h6><font color="grey">Post 17 Februari 2020 &nbsp LDK ISHLAH Y.A.I</h6><br>   
+    
+         <p><font color="black">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem, quia voluptas sit, aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos, qui ratione voluptatem sequi nesciunt, neque porro quisquam est, qui dolorem ipsum, quia dolor sit, amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt, ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit, qui in ea voluptate velit esse, quam nihil molestiae consequatur, vel illum, qui dolorem eum fugiat, quo voluptas nulla pariatur? At vero eos et accusamus et iusto odio dignissimos ducimus, qui blanditiis praesentium voluptatum deleniti atque corrupti, quos dolores et quas molestias excepturi sint, obcaecati cupiditate non provident, similique sunt in culpa, qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio, cumque nihil impedit, quo minus id, quod maxime placeat, facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet, ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</p></font>
+    <hr>
 
     </div>
-    <!-- akhir struktur -->
-<div class="container fluid">
-<hr/>
+    </div>
+    </div>
+    </center>
+    </div>
+
+<section class="artikel1 pb-5 mb-5">
+<div class="container "> 
+  <div class="row pt-5 pb-4">
+    <div class="col font-weight-bold text-center">
+      <font color="black"><h1>BACA ARTIKEL LAINNYA</h1></font>
+    </div>
+  </div>
+<div class="row">
+  <div class="col-sm-12 col-md-12 col-lg-4">
+<div class="card" >
+  
+  <img class="card-img-top" src="img/masjid.png" alt="Card image cap">
+  <div class="card-body">
+    <p class="card-text">"One day one hadist : Keutamaan 
+Membaca Al-Qur'an"</p>
+    </div>
+    </div>
+    </div>
+    <div class="col-sm-12 col-md-12 col-lg-4">
+<div class="card" >
+  
+  <img class="card-img-top" src="img/Gambar-Al-Quran-8.jpg" alt="Card image cap">
+  <div class="card-body">
+    <p class="card-text">"One day one hadist : Keutamaan 
+Membaca Al-Qur'an"</p>
+    </div>
+    </div>
+    </div>
+  
+    <div class="col-sm-12 col-md-12 col-lg-4">
+<div class="card" >
+  
+  <img class="card-img-top" src="img/kid-1.png" alt="Card image cap">
+  <div class="card-body">
+    <p class="card-text">"One day one hadist : Keutamaan 
+Membaca Al-Qur'an"</p>
+    </div>
+    </div>
+    </div>
+  
+    </div>  
 </div>
+</section>
+
+  <!-- akhir artikel -->
+
 
 
 <!-- awal tentang -->
@@ -127,7 +188,7 @@
 
 <div class="row">
   <div class="col-12 ">
-    <h1 class="text-center ">TENTANG LDK ISHLAH</h1>
+    <font color="black"><h1 class="text-center">TENTANG LDK ISHLAH</h1>
     <p class="text-justify pt-2">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quibusdam iure magnam a expedita tempore. Repellat nostrum ipsa officiis nobis ducimus, sed debitis ut quas alias sequi temporibus amet. Quisquam, est. Ratione alias dignissimos quod, sequi inventore velit, libero voluptatibus voluptas laboriosam quas molestias! Blanditiis quibusdam, sint fugiat iure debitis laboriosam.</p>
     <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Itaque tempore explicabo tenetur voluptate ullam nihil suscipit non id aliquid quos. A laboriosam laborum dignissimos voluptates ex, quidem nulla at alias?</p>
 
@@ -225,6 +286,9 @@ $(function(){
     
   });
 }); 
+$(function () {
+  $('[data-toggle="tooltip"]').tooltip()
+})
 
 </script>
 

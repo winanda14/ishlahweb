@@ -20,9 +20,30 @@
     <link href="https://fonts.googleapis.com/css?family=Poppins:200,400,600,700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
     <link rel="icon" href="img/logo.png">
-    <title> STRUKTUR ISHLAH</title>
+    <title>  LDK ISHLAH Y.A.I</title>
 
     <style>
+      ul.pagination {
+      display: inline-block;
+      padding: 0;
+      margin: 0;
+      }
+      ul.pagination li {display: inline;}
+      ul.pagination li a {
+      color: black;
+      float: left;
+      padding: 8px 16px;
+      text-decoration: none;
+      transition: background-color .3s;
+      border: 1px solid #ddd;
+      }
+      ul.pagination li a.active {
+      background-color: gray;
+      color: white;
+      border: 1px solid gray;
+      }
+      ul.pagination li a:hover:not(.active) {background-color: #ddd;}
+      div.center {text-align: center;}
       
     </style>
   </head>
@@ -32,14 +53,15 @@
     <section class="navbar">
     <nav class="navbar navbar-expand-lg navbar-dark fixed-top">
       <div class="container">
-  <a class="navbar-brand" href="#"><img src="img/logo.png" alt="ishlah  "></a>
+  <a class="navbar-brand" href="#" data-toggle="tooltip" data-placement="bottom" title="logo.png">
+  <img src="img/logo.png" alt="ishlah  " ></a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
   <div class="collapse navbar-collapse" id="navbarNav">
     <ul class="navbar-nav mx-auto">
       <li class="nav-item active">
-        <a class="nav-link " href="index.php" >Beranda <span class="sr-only">(current)</span></a>
+        <a class="nav-link " href="index.php">Beranda <span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#">Profile</a>
@@ -107,18 +129,75 @@
     <!-- akhir carousel -->
 
     <!-- test -->
-    <!-- awal struktur-->
+    
+    <!-- awal artikel -->
 
+<section class="artikel1 pb-5 mb-5">
+<div class="container "> 
+  <div class="row pt-5 pb-4">
+    <div class="col font-weight-bold text-center">
+      <h1>ARTIKEL TERBARU</h1>
+    </div>
+  </div>
+<center><div class="col">
+  <div class="col-sm-12 col-md-12 col-lg-7" align="justify">
+    <a href="isiartikel.php"><div class="">
 
-    <div class="container text-center mt-5 mb-5 fluid">
-      <h1 class="visi pb-5">STRUKTUR PERIODE 2019-2020</h1>
-      <img src="img/6.png" width="80%" height="900px">
+      <h2 class="card-text"><font color="gray">"ONE DAY ONE HADIST: KEUTAMAAN MEMBACA AL-QUR'AN"</h2></font>
+      <img class="card-img-top" src="img/masjid.png" alt="Card image cap"><br><br>
+    
+         <p><font color="black">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></font></a>
+    <hr>
 
     </div>
-    <!-- akhir struktur -->
-<div class="container fluid">
-<hr/>
+    </div>
+    </div>
+
+  <div class="col-sm-12 col-md-12 col-lg-7" align="justify">
+    <a href="#"><div class="">
+
+      <h2 class="card-text"><font color="gray">"ONE DAY ONE HADIST: KEUTAMAAN MEMBACA AL-QUR'AN"</h2></font>
+      <img class="card-img-top" src="img/madina.png" alt="Card image cap"><br><br>
+      <div class="">    
+          <p><font color="black">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></font></a>
+    <hr>
+
+    </div>
+    </div>
+    </div>
+
+    <div class="col-sm-12 col-md-12 col-lg-7" align="justify">
+      <a href="#"><div class="">
+
+        <h2 class="card-text"><font color="gray">"ONE DAY ONE HADIST: KEUTAMAAN MEMBACA AL-QUR'AN"</h2></font>
+        <img class="card-img-top" src="img/hasan.png" alt="Card image cap"><br><br>
+      
+            <p><font color="black">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></font></a>
+      <hr>
+
+    </div>
+    </div>
+    </div>
+    </center>
+    </div><br>
+
+    <div class="center">
+      <ul class="pagination">
+        <li><a href="artikel.php"><<</a></li> 
+        <li><a href="artikel.php">1</a></li>
+        <li><a class="active"a href="artikel2.php">2</a></li>
+        <li><a href="#">3</a></li>
+        <li><a href="#">...</a></li>
+        <li><a href="#">>></a></li>
+
+    </ul>
+    </div> 
+
 </div>
+</section> 
+
+  <!-- akhir artikel -->
+
 
 
 <!-- awal tentang -->
@@ -127,7 +206,7 @@
 
 <div class="row">
   <div class="col-12 ">
-    <h1 class="text-center ">TENTANG LDK ISHLAH</h1>
+    <font color="black"><h1 class="text-center">TENTANG LDK ISHLAH</h1>
     <p class="text-justify pt-2">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quibusdam iure magnam a expedita tempore. Repellat nostrum ipsa officiis nobis ducimus, sed debitis ut quas alias sequi temporibus amet. Quisquam, est. Ratione alias dignissimos quod, sequi inventore velit, libero voluptatibus voluptas laboriosam quas molestias! Blanditiis quibusdam, sint fugiat iure debitis laboriosam.</p>
     <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Itaque tempore explicabo tenetur voluptate ullam nihil suscipit non id aliquid quos. A laboriosam laborum dignissimos voluptates ex, quidem nulla at alias?</p>
 
@@ -225,6 +304,9 @@ $(function(){
     
   });
 }); 
+$(function () {
+  $('[data-toggle="tooltip"]').tooltip()
+})
 
 </script>
 
