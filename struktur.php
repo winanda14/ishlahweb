@@ -119,21 +119,25 @@
 <div class="container fluid">
 <hr/>
 </div>
+
+
 <!-- awal tentang -->
 <section class="video">
 <div class="container pt-5 pb-5">
 
 <div class="row">
-  <div class="col-sm-12 col-md-12 col-lg-6 col-12">
-    <h1>TENTANG LDK ISHLAH</h1>
-    <p class="text-justify">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quibusdam iure magnam a expedita tempore. Repellat nostrum ipsa officiis nobis ducimus, sed debitis ut quas alias sequi temporibus amet. Quisquam, est. Ratione alias dignissimos quod, sequi inventore velit, libero voluptatibus voluptas laboriosam quas molestias! Blanditiis quibusdam, sint fugiat iure debitis laboriosam.</p>
+  <div class="col-12 ">
+    <h1 class="text-center ">TENTANG LDK ISHLAH</h1>
+    <p class="text-justify pt-2">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quibusdam iure magnam a expedita tempore. Repellat nostrum ipsa officiis nobis ducimus, sed debitis ut quas alias sequi temporibus amet. Quisquam, est. Ratione alias dignissimos quod, sequi inventore velit, libero voluptatibus voluptas laboriosam quas molestias! Blanditiis quibusdam, sint fugiat iure debitis laboriosam.</p>
     <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Itaque tempore explicabo tenetur voluptate ullam nihil suscipit non id aliquid quos. A laboriosam laborum dignissimos voluptates ex, quidem nulla at alias?</p>
 
   </div>
-  <div class="col-sm-12 col-md-12 col-lg-6 col-12">
-    <p><span class="videocapt"> Video Profile Ishlah<span></p>
+  </div>
+  <div class="row ">
+  <div class="pemutar col-12 ">
+    <p><span class="videocapt pt-2 "> Video Profile Ishlah<span></p>
     
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/ke28sLoHNH0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class=""></iframe>
+  <iframe width="100%  " height="600" src="https://www.youtube.com/embed/ke28sLoHNH0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="" ></iframe>
   </div>
 </div>
 </div>
@@ -153,7 +157,7 @@
 </div>
 </div>
 <div class="row pb-5">
-<div class="col-sm-3  col-md-5  col-lg-5 pt-2">
+<div class="col-4 pt-2">
 
 
 <h1 class="font-weight-bold   ">Sekretariat</>
@@ -161,21 +165,29 @@
 Indonesia </p>
 
 </div>
-<div class="col-sm-3  col-md-5  col-lg-5 font-weight-bold pt-4">
-<section class="copyright"><p >Copyright 2020 by Sistem Informasi Y.A.I</p></section>
-</div>
-<section class="sosmed">
-<div class="col col-md  pt-4  ">
-    <img src="img/fb.png" alt="">
-    <img src="img/ig.png" alt="">
-    <img src="img/twitter.png" alt="">
-</div>
-</section>
-</div>
+
+<div class="col-5 offset-3 text-right    pt-5">
+    <a href="">
+      <img src="img/fb.png" alt="">
+    </a>
+    <a href="">
+      <img src="img/ig.png" alt="">
+    </a>
+    <a href="">
+      <img src="img/twitter.png" alt="">
+    </a>
 </div>
 
+</div>
+</div>
+  </footer>
 
-</footer
+<div class="subfooter row">
+
+<div class="col text-center">
+  <p>Copyright <i class="far fa-copyright"></i> 2020 by Sistem Informasi Y.A.I</p>
+</div>
+</div>
 
 <!-- akhir footer -->
 
