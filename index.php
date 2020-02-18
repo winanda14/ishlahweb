@@ -226,7 +226,7 @@
           
       <div class="carousel-caption d-none d-block row " id="caption">
       <div class="row ">
-      <h1 style="position:absolute; top:0; "  class="col judulcaro text-center pl-5"  ">Apa Kata Mereka?</h1></div>
+      <h1 style="position:absolute; top:0; "  class="col judulcaro text-center pl-5">Apa Kata Mereka?</h1></div>
       <p style="position:absolute; top:0; margin-left: 10px; margin-top:100px; font-weight:200 font-size:20px;" class="text-center ">
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum dolor, numquam quae nemo fuga consectetur ullam exercitationem officia sit tempore esse aliquid recusandae quod natus ipsum odio nihil ut inventore?"</p>
       <h5 class="font-weight-bold"><span>Ahmad</span></h5>

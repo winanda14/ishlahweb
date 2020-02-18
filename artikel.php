@@ -206,7 +206,7 @@
 
 <div class="row">
   <div class="col-12 ">
-    <h1 class="text-center ">TENTANG LDK ISHLAH</h1>
+    <font color="black"><h1 class="text-center">TENTANG LDK ISHLAH</h1>
     <p class="text-justify pt-2">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quibusdam iure magnam a expedita tempore. Repellat nostrum ipsa officiis nobis ducimus, sed debitis ut quas alias sequi temporibus amet. Quisquam, est. Ratione alias dignissimos quod, sequi inventore velit, libero voluptatibus voluptas laboriosam quas molestias! Blanditiis quibusdam, sint fugiat iure debitis laboriosam.</p>
     <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Itaque tempore explicabo tenetur voluptate ullam nihil suscipit non id aliquid quos. A laboriosam laborum dignissimos voluptates ex, quidem nulla at alias?</p>
 

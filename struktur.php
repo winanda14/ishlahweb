@@ -45,7 +45,7 @@
         <a class="nav-link" href="#">Profile</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Artikel</a>
+        <a class="nav-link" href="artikel.php">Artikel</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="struktur.php">Struktur</a>
@@ -153,7 +153,7 @@
 </div>
 </div>
 <div class="row pb-5">
-<div class="col-sm-3  col-md-5  col-lg-5 pt-2">
+<div class="col-4 pt-2">
 
 
 <h1 class="font-weight-bold   ">Sekretariat</>
@@ -161,21 +161,29 @@
 Indonesia </p>
 
 </div>
-<div class="col-sm-3  col-md-5  col-lg-5 font-weight-bold pt-4">
-<section class="copyright"><p >Copyright 2020 by Sistem Informasi Y.A.I</p></section>
-</div>
-<section class="sosmed">
-<div class="col col-md  pt-4  ">
-    <img src="img/fb.png" alt="">
-    <img src="img/ig.png" alt="">
-    <img src="img/twitter.png" alt="">
-</div>
-</section>
-</div>
+
+<div class="col-5 offset-3 text-right    pt-5">
+    <a href="">
+      <img src="img/fb.png" alt="">
+    </a>
+    <a href="">
+      <img src="img/ig.png" alt="">
+    </a>
+    <a href="">
+      <img src="img/twitter.png" alt="">
+    </a>
 </div>
 
+</div>
+</div>
+  </footer>
 
-</footer
+<div class="subfooter row">
+
+<div class="col text-center">
+  <p>Copyright <i class="far fa-copyright"></i> 2020 by Sistem Informasi Y.A.I</p>
+</div>
+</div>
 
 <!-- akhir footer -->
 
