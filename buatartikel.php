@@ -54,7 +54,7 @@
   <input type="file" class="custom-file-input" id="customFile" accept="image/*">
   <label class="custom-file-label" for="customFile" style="margin-left:10px;">Choose file</label>
 </div>
-<button type="button" class="btn bg-primary mt-2" style="margin-left:20px; margin-right:20px;">Upload</button>
+<button type="button" class="btn bg-primary mt-2" style="margin-left:20px; margin-right:20px;">Posting</button>
 </div>
 
 <center><div class="form-group col-sm-10 col-md-10">
