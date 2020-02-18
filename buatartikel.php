@@ -20,14 +20,13 @@
     <link href="https://fonts.googleapis.com/css?family=Poppins:200,400,600,700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="admin.css">
     <link rel="icon" href="img/logo.png">
-    <title>  LDK ISHLAH Y.A.I</title>
+    <title> Buat Artikel</title>
 
     <style>
       
     </style>
   </head>
   <body>
-    <!-- navbar -->
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark m-auto">
   <a class="navbar-brand text-center" href="#">HALAMAN ADMIN</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -35,72 +34,36 @@
   </button>
 
     <div class="icon ml-auto ">
-    <a href=""><i class="fas fa-sign-out-alt" style="color:white;" data-toggle="tooltip" data-placement="bottom" title="log out"></i></a>
+   <a href=""> <i class="fas fa-sign-out-alt" style="color:white;" data-toggle="tooltip" data-placement="bottom" title="log out"></i></a>
     </div>
   </div>
 </nav>
-<!-- akhir navbar -->
-
-<!-- awal content -->
-<div class="row no-gutters">
-
-<div class="col-md-2 bg-light ">
-<ul class="nav flex-column pt-2">
-  <li><a href="" class="nav-link text-dark "><i class="fas fa-tachometer-alt mr-3 ml-1"></i>Dashboard</a> <hr class="bg-secondary "></li>
-</ul>
-<ul class="nav flex-column ">
-  <li><a href="buatartikel.php" class="nav-link text-dark"><i class="fas fa-user-edit mr-3 ml-1"></i>Buat Artikel</a> <hr class="bg-secondary "></li>
-</ul>
-<ul class="nav flex-column ">
-  <li><a href="" class="nav-link text-dark"><i class="fas fa-images mr-3 ml-1"></i>Tambah Foto</a> <hr class="bg-secondary "></li>
-</ul>
-<ul class="nav flex-column pt-5">
-  <li></li>
-</ul>
-
-</div>
-
-<div class="col-md-10  d-inline-block" style="background-color:#C9D8CE; ">
-<h3 class="pt-2 ml-3 ">Dashboard</h3>
-<hr style="border:3;">
-<div class="container">
-  <div class="content row">
-    <div class="backgroundcard1 col">
-<div class="card " >
-  
-  <div class="card1 card-body">
-    
-    <h2 class="card-text text-center">Buat Artikel</h2>
-    
-    </div>
-    <p class="text-center">Buat Artikel</p>
+<div class="bg-light">
+<br>
+<div class="container mb-3">
+<form>
+<div class="form-group row">
+    <label for="inputjudul" class="col-sm-2 col-md-1 col-form-label"><b>JUDUL : </b></label>
+    <div class="col-sm-10 col-md-6">
+      <input type="judul" class="form-control" id="inputEmail3">
     </div>
   </div>
-  
-  <div class="   col">
-<div class="card " >
-  
-  <div class="card2 card-body">
-    
-    <h2 class="card-text text-center">Tambah Foto</h2>
-    </div>
-    <p class="text-center">Tambah Foto</p>
-    </div>
-  </div>
+  <div class="form-group"
+  <label for="inputcover" class="col-sm-2 col-md-2 col-form-label"><b>UPLOAD COVER :</b></label>
+  <div class="custom-file col-sm-10 col-md-3">
+  <input type="file" class="custom-file-input" id="customFile" accept="image/*">
+  <label class="custom-file-label" for="customFile" style="margin-left:10px;">Choose file</label>
 </div>
+<button type="button" class="btn bg-primary mt-2" style="margin-left:20px; margin-right:20px;">Posting</button>
 </div>
-</div>
-</div>
-</div>
-<!-- akhir content -->
 
-<!-- footer -->
-<footer>
-<p class="text-center">copyright <i class="far fa-copyright"></i> 2020 by Sistem Informasi Y.A.I</p>
-
-</footer>
-<!-- akhir footer -->
-    <!-- Optional JavaScript -->
+<center><div class="form-group col-sm-10 col-md-10">
+    <label for="exampleFormControlTextarea1"></label>
+    <textarea class="form-control" id="exampleFormControlTextarea1" rows="20"></textarea>
+  </div></center>
+</form>
+</div>
+</div>
     <!-- footer -->
 <footer>
 <p class="text-center">copyright 2020 by Sistem Informasi Y.A.I</p>
