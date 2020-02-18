@@ -136,7 +136,7 @@
     <br>
         B. Bulan-Bintang : Melambangkan tingginya nilai nilai islam yang menjadi inti dan pedoman bagi segenap aktivitas UKM Ishlah LPT YAI 
     <br>
-       C. Buku : Melambangkan sifat dan keperibadian mahasiswa/i Islam LPT YAI yang senantiasa mempelajari ilmu dunia dan ilmu akhirat dalam membentuk masyarakat indonesai seutuhnya
+      C. Buku : Melambangkan sifat dan keperibadian mahasiswa/i Islam LPT YAI yang senantiasa mempelajari ilmu dunia dan ilmu akhirat dalam membentuk masyarakat indonesai seutuhnya
     </p>
     <p>
         Warna Hijau : Melambangkang keharmonisan, keseimbangan dan kedamaian yang mempresentasikan hubungan baik individu terhadap tuhanya dan makhluk ciptaan Nya, serta merupakan warna yang di sukai oleh rasulullah shollahu 'alaihi wasallam.
