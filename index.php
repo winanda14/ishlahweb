@@ -131,7 +131,7 @@
         <figure class="figure ">
           <a href=""> <img src="img/6.png" alt=""class=" figure-img img-fluid"></a>
           <fofigurecaption class="figure-caption"> 
-        <h5>Pengabul</h5>   
+          <h5>Pengabul</h5>   
         </figurecaption>
         </figure>
       </div>
@@ -139,7 +139,7 @@
         <figure class="figure ">
           <a href=""> <img src="img/6.png " alt=""class=" figure-img img-fluid"></a>
           <figurecaption class="figure-caption"> 
-        <h5>Pengabul</h5>   
+          <h5>Pengabul</h5>   
         </figurecaption>
         </figure>
       </div>
@@ -147,7 +147,7 @@
         <figure class="figure ">
           <a href=""> <img src="img/2.png " alt=""class=" figure-img img-fluid"></a>
           <figurecaption class="figure-caption"> 
-        <h5>Pengabul</h5>   
+          <h5>Pengabul</h5>   </a>
         </figurecaption>
         </figure>
       </div>
@@ -155,7 +155,7 @@
         <figure class="figure ">
           <a href=""> <img src="img/2.png " alt=""class=" figure-img img-fluid"></a>
           <figurecaption class="figure-caption"> 
-        <h5>Pengabul</h5>   
+          <h5>Pengabul</h5>   </a>
         </figurecaption>
         </figure>
       </div>
@@ -164,24 +164,24 @@
       <div class="col-sm-12 col-md-6 col-lg-3">
         <figure class="figure ">
           <a href=""> <img src="img/6.png" alt=""class=" figure-img img-fluid"></a>
-          <fofigurecaption class="figure-caption"> 
-        <h5>Pengabul</h5>   
+          <figurecaption class="figure-caption"> 
+          <h5>Pengabul</h5>   
         </figurecaption>
         </figure>
       </div>
       <div class="col-sm-12 col-md-6 col-lg-3">
         <figure class="figure ">
           <a href=""> <img src="img/6.png " alt=""class=" figure-img img-fluid"></a>
-          <fofigurecaption class="figure-caption"> 
-        <h5>Pengabul</h5>   
+          <figurecaption class="figure-caption"> 
+          <h5>Pengabul</h5>
         </figurecaption>
         </figure>
       </div>
       <div class="col-sm-12 col-md-6 col-lg-3">
         <figure class="figure ">
           <a href=""> <img src="img/2.png " alt=""class=" figure-img img-fluid"></a>
-          <fofigurecaption class="figure-caption"> 
-        <h5>Pengabul</h5>   
+          <figurecaption class="figure-caption"> 
+          <h5>Pengabul</h5> 
         </figurecaption>
         </figure>
       </div>
@@ -290,8 +290,8 @@
   
   <img class="card-img-top" src="img/masjid.png" alt="Card image cap">
   <div class="card-body">
-    <p class="card-text">"One day one hadist : Keutamaan 
-baca Al-Qur'an"</p>
+  <a href=""><p class="card-text">"One day one hadist : Keutamaan 
+baca Al-Qur'an"</p></a>
     </div>
     </div>
     </div>
@@ -300,8 +300,8 @@ baca Al-Qur'an"</p>
   
   <img class="card-img-top" src="img/masjid.png" alt="Card image cap">
   <div class="card-body">
-    <p class="card-text">"One day one hadist : Keutamaan 
-baca Al-Qur'an"</p>
+    <a href=""><p class="card-text">"One day one hadist : Keutamaan 
+baca Al-Qur'an"</p></a>
     </div>
     </div>
     </div>
@@ -311,8 +311,8 @@ baca Al-Qur'an"</p>
   
   <img class="card-img-top" src="img/masjid.png" alt="Card image cap">
   <div class="card-body">
-    <p class="card-text">"One day one hadist : Keutamaan 
-baca Al-Qur'an"</p>
+  <a href=""> <p class="card-text">"One day one hadist : Keutamaan 
+baca Al-Qur'an"</p></a>
     </div>
     </div>
     </div>

@@ -95,15 +95,20 @@ btn a:hover {
 
 }
 
+.programkerja a h5 {
+    text-decoration: none;
+}
 
 
 /* akhir content */
 
 /* testimonial */
+
 #testimonials {
     background-image: url(img/6.png);
     background-size: cover;
     background-position: 0 -500 !important;
+
 
 }
 
@@ -179,9 +184,17 @@ h3 {
 
 
 
-
-
 /* akhir testimonial */
+
+/* artikel */
+.card a {
+    text-decoration: none !important;
+    color: #000;
+}
+
+/* akhir artikel */
+
+
 
 /* video  */
 .videocapt {
@@ -199,58 +212,6 @@ h3 {
 
 /* akhir video  */
 
-/*  footer */
-.footer {
-    background-color: black;
-    color: white;
-}
-
-.footer h1 {
-
-    font-weight: 200;
-    font-size: 20px;
-    padding-top: 30px;
-
-}
-
-
-.garis {
-    color: white;
-    border: 3px solid;
-}
-
-.footer {
-
-    background-color: black;
-    opacity: 80%;
-}
-
-.footer p {
-    font-size: 10px;
-
-}
-
-.footer .moto {
-    font-size: 30px;
-    font-weight: 900;
-}
-
-.footer .copyright {
-    padding-top: 30px;
-
-}
-
-.footer {
-    font-size: 10px;
-}
-
-.subfooter {
-    background: #000;
-    color: white;
-    padding-top: 8px;
-}
-
-/* akhir footer */
 
 /* test */
 
@@ -331,4 +292,56 @@ h3 {
 
 
 
+/*  footer */
+.footer {
+    background-color: black;
+    color: white;
+}
+
+.footer h1 {
+
+    font-weight: 200;
+    font-size: 20px;
+    padding-top: 30px;
+
+}
+
+
+.garis {
+    color: white;
+    border: 3px solid;
+}
+
+.footer {
+
+    background-color: black;
+    opacity: 80%;
+}
+
+.footer p {
+    font-size: 10px;
+
+}
+
+.footer .moto {
+    font-size: 30px;
+    font-weight: 900;
+}
+
+.footer .copyright {
+    padding-top: 30px;
+
+}
+
+.footer {
+    font-size: 10px;
+}
+
+.subfooter {
+    background: #000;
+    color: white;
+    padding-top: 8px;
+}
+
+/* akhir footer */
 /* akhir navigasi */
