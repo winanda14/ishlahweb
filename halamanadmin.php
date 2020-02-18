@@ -27,6 +27,7 @@
     </style>
   </head>
   <body>
+    <!-- navbar -->
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark m-auto">
   <a class="navbar-brand text-center" href="#">HALAMAN ADMIN</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -34,11 +35,13 @@
   </button>
 
     <div class="icon ml-auto ">
-   <a href=""> <i class="fas fa-sign-out-alt" style="color:white;" data-toggle="tooltip" tittle="log out"></i></a>
+    <a href=""><i class="fas fa-sign-out-alt" style="color:white;" data-toggle="tooltip" data-placement="bottom" title="log out"></i></a>
     </div>
   </div>
 </nav>
+<!-- akhir navbar -->
 
+<!-- awal content -->
 <div class="row no-gutters">
 
 <div class="col-md-2 bg-light ">
@@ -61,9 +64,9 @@
 <h3 class="pt-2 ml-3 ">Dashboard</h3>
 <hr style="border:3;">
 <div class="container">
-  <div class="row">
-    <div class="col">
-<div class="card " style="width: 18rem;">
+  <div class="content row">
+    <div class="backgroundcard1 col">
+<div class="card " >
   
   <div class="card1 card-body">
     
@@ -74,8 +77,8 @@
     </div>
   </div>
   
-  <div class="col">
-<div class="card " style="width: 18rem;">
+  <div class="   col">
+<div class="card " >
   
   <div class="card2 card-body">
     
@@ -89,6 +92,14 @@
 </div>
 </div>
 </div>
+<!-- akhir content -->
+
+<!-- footer -->
+<footer>
+<p class="text-center">copyright <i class="far fa-copyright"></i> 2020 by Sistem Informasi Y.A.I</p>
+
+</footer>
+<!-- akhir footer -->
     <!-- Optional JavaScript -->
     <!-- footer -->
 <footer>

@@ -32,7 +32,8 @@
     <section class="navbar">
     <nav class="navbar navbar-expand-lg navbar-dark fixed-top">
       <div class="container">
-  <a class="navbar-brand" href="#"><img src="img/logo.png" alt="ishlah  "></a>
+  <a class="navbar-brand" href="#" data-toggle="tooltip" data-placement="bottom" title="logo.png">
+  <img src="img/logo.png" alt="ishlah  " ></a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
@@ -130,7 +131,7 @@
         <figure class="figure ">
           <a href=""> <img src="img/6.png" alt=""class=" figure-img img-fluid"></a>
           <fofigurecaption class="figure-caption"> 
-        <h5>Pengabul</h5>   
+          <h5>Pengabul</h5>   
         </figurecaption>
         </figure>
       </div>
@@ -138,7 +139,7 @@
         <figure class="figure ">
           <a href=""> <img src="img/6.png " alt=""class=" figure-img img-fluid"></a>
           <figurecaption class="figure-caption"> 
-        <h5>Pengabul</h5>   
+          <h5>Pengabul</h5>   
         </figurecaption>
         </figure>
       </div>
@@ -146,7 +147,7 @@
         <figure class="figure ">
           <a href=""> <img src="img/2.png " alt=""class=" figure-img img-fluid"></a>
           <figurecaption class="figure-caption"> 
-        <h5>Pengabul</h5>   
+          <h5>Pengabul</h5>   </a>
         </figurecaption>
         </figure>
       </div>
@@ -154,7 +155,7 @@
         <figure class="figure ">
           <a href=""> <img src="img/2.png " alt=""class=" figure-img img-fluid"></a>
           <figurecaption class="figure-caption"> 
-        <h5>Pengabul</h5>   
+          <h5>Pengabul</h5>   </a>
         </figurecaption>
         </figure>
       </div>
@@ -163,24 +164,24 @@
       <div class="col-sm-12 col-md-6 col-lg-3">
         <figure class="figure ">
           <a href=""> <img src="img/6.png" alt=""class=" figure-img img-fluid"></a>
-          <fofigurecaption class="figure-caption"> 
-        <h5>Pengabul</h5>   
+          <figurecaption class="figure-caption"> 
+          <h5>Pengabul</h5>   
         </figurecaption>
         </figure>
       </div>
       <div class="col-sm-12 col-md-6 col-lg-3">
         <figure class="figure ">
           <a href=""> <img src="img/6.png " alt=""class=" figure-img img-fluid"></a>
-          <fofigurecaption class="figure-caption"> 
-        <h5>Pengabul</h5>   
+          <figurecaption class="figure-caption"> 
+          <h5>Pengabul</h5>
         </figurecaption>
         </figure>
       </div>
       <div class="col-sm-12 col-md-6 col-lg-3">
         <figure class="figure ">
           <a href=""> <img src="img/2.png " alt=""class=" figure-img img-fluid"></a>
-          <fofigurecaption class="figure-caption"> 
-        <h5>Pengabul</h5>   
+          <figurecaption class="figure-caption"> 
+          <h5>Pengabul</h5> 
         </figurecaption>
         </figure>
       </div>
@@ -224,20 +225,21 @@
     </div>
           
       <div class="carousel-caption d-none d-block row " id="caption">
-      <h1 style="position:absolute; top:0; ; " class="text-center float-fluid  w-300 pb-3"><span class="col-auto test1 " style="margin-left: 430px">apa kata mereka?</span></h1>
+      <div class="row ">
+      <h1 style="position:absolute; top:0; "  class="col judulcaro text-center pl-5"  ">Apa Kata Mereka?</h1></div>
       <p style="position:absolute; top:0; margin-left: 10px; margin-top:100px; font-weight:200 font-size:20px;" class="text-center ">
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum dolor, numquam quae nemo fuga consectetur ullam exercitationem officia sit tempore esse aliquid recusandae quod natus ipsum odio nihil ut inventore?"</p>
       <h5 class="font-weight-bold"><span>Ahmad</span></h5>
         <p>Ketua umum ishlah 2012</p>
       </div>
     </div>
-    <div class="carousel-item">
-    <div class="img-area">
+    <div class="carousel-item ">
+    <div class="img-area ">
     <img src="img/6.png" alt="">
     </div>
       
       <div class="carousel-caption d-none d-block" id="caption">
-      <h1 style="position:absolute; top:0; margin-left: 430px; " class="text-center "><span class="test1 mt-5">apa kata mereka?</span></h1>
+      <h1 style="position:absolute; top:0;  " class="col judulcaro text-center pl-5 ">Apa Kata Mereka?</h1>
       <p style="position:absolute; top:0; margin-left: 10px; margin-top:100px; font-weight:200 font-size:20px;" class="text-center ">"Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum dolor, numquam quae nemo fuga consectetur ullam exercitationem officia sit tempore esse aliquid recusandae quod natus ipsum odio nihil ut inventore?"</p>
       <h5 class="font-weight-bold"><span>Ahmad</span></h5>
         <p>Ketua umum ishlah 2011</p>
@@ -249,7 +251,7 @@
     </div>
       
       <div class="carousel-caption d-none d-block" id="caption">
-      <h1 style="position:absolute; top:0; margin-left: 430px; " class="text-center "><span class="test1 mt-5">apa kata mereka?</span></h1>
+      <h1 style="position:absolute; top:0;  " class="col judulcaro text-center pl-5">Apa Kata Mereka?</h1>
       <p style="position:absolute; top:0; margin-left: 10px; margin-top:100px; font-weight:200 font-size:20px;" class="text-center ">"Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum dolor, numquam quae nemo fuga consectetur ullam exercitationem officia sit tempore esse aliquid recusandae quod natus ipsum odio nihil ut inventore?"</p>
       <h5 class="font-weight-bold"><span>Ahmad</span></h5>
         <p class="">Ketua umum ishlah 2011</p>
@@ -288,8 +290,8 @@
   
   <img class="card-img-top" src="img/masjid.png" alt="Card image cap">
   <div class="card-body">
-    <p class="card-text">"One day one hadist : Keutamaan 
-baca Al-Qur'an"</p>
+  <a href=""><p class="card-text">"One day one hadist : Keutamaan 
+baca Al-Qur'an"</p></a>
     </div>
     </div>
     </div>
@@ -298,8 +300,8 @@ baca Al-Qur'an"</p>
   
   <img class="card-img-top" src="img/masjid.png" alt="Card image cap">
   <div class="card-body">
-    <p class="card-text">"One day one hadist : Keutamaan 
-baca Al-Qur'an"</p>
+    <a href=""><p class="card-text">"One day one hadist : Keutamaan 
+baca Al-Qur'an"</p></a>
     </div>
     </div>
     </div>
@@ -309,8 +311,8 @@ baca Al-Qur'an"</p>
   
   <img class="card-img-top" src="img/masjid.png" alt="Card image cap">
   <div class="card-body">
-    <p class="card-text">"One day one hadist : Keutamaan 
-baca Al-Qur'an"</p>
+  <a href=""> <p class="card-text">"One day one hadist : Keutamaan 
+baca Al-Qur'an"</p></a>
     </div>
     </div>
     </div>
@@ -329,16 +331,18 @@ baca Al-Qur'an"</p>
 <div class="container pt-5 pb-5">
 
 <div class="row">
-  <div class="col-sm-12 col-md-12 col-lg-6 col-12">
-    <h1>TENTANG LDK ISHLAH</h1>
-    <p class="text-justify">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quibusdam iure magnam a expedita tempore. Repellat nostrum ipsa officiis nobis ducimus, sed debitis ut quas alias sequi temporibus amet. Quisquam, est. Ratione alias dignissimos quod, sequi inventore velit, libero voluptatibus voluptas laboriosam quas molestias! Blanditiis quibusdam, sint fugiat iure debitis laboriosam.</p>
+  <div class="col-12 ">
+    <h1 class="text-center ">TENTANG LDK ISHLAH</h1>
+    <p class="text-justify pt-2">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quibusdam iure magnam a expedita tempore. Repellat nostrum ipsa officiis nobis ducimus, sed debitis ut quas alias sequi temporibus amet. Quisquam, est. Ratione alias dignissimos quod, sequi inventore velit, libero voluptatibus voluptas laboriosam quas molestias! Blanditiis quibusdam, sint fugiat iure debitis laboriosam.</p>
     <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Itaque tempore explicabo tenetur voluptate ullam nihil suscipit non id aliquid quos. A laboriosam laborum dignissimos voluptates ex, quidem nulla at alias?</p>
 
   </div>
-  <div class="col-sm-12 col-md-12 col-lg-6 col-12">
-    <p><span class="videocapt"> Video Profile Ishlah<span></p>
+  </div>
+  <div class="row ">
+  <div class="pemutar col-12 ">
+    <p><span class="videocapt pt-2 "> Video Profile Ishlah<span></p>
     
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/ke28sLoHNH0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class=""></iframe>
+  <iframe width="100%  " height="600" src="https://www.youtube.com/embed/ke28sLoHNH0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="" ></iframe>
   </div>
 </div>
 </div>
@@ -358,7 +362,7 @@ baca Al-Qur'an"</p>
 </div>
 </div>
 <div class="row pb-5">
-<div class="col-sm-3  col-md-5  col-lg-5 pt-2">
+<div class="col-4 pt-2">
 
 
 <h1 class="font-weight-bold   ">Sekretariat</>
@@ -366,21 +370,29 @@ baca Al-Qur'an"</p>
 Indonesia </p>
 
 </div>
-<div class="col-sm-3  col-md-5  col-lg-5 font-weight-bold pt-4">
-<section class="copyright"><p >Copyright 2020 by Sistem Informasi Y.A.I</p></section>
-</div>
-<section class="sosmed">
-<div class="col col-md  pt-4  ">
-    <img src="img/fb.png" alt="">
-    <img src="img/ig.png" alt="">
-    <img src="img/twitter.png" alt="">
-</div>
-</section>
-</div>
+
+<div class="col-5 offset-3 text-right    pt-5">
+    <a href="">
+      <img src="img/fb.png" alt="">
+    </a>
+    <a href="">
+      <img src="img/ig.png" alt="">
+    </a>
+    <a href="">
+      <img src="img/twitter.png" alt="">
+    </a>
 </div>
 
+</div>
+</div>
+  </footer>
 
-</footer
+<div class="subfooter row">
+
+<div class="col text-center">
+  <p>Copyright <i class="far fa-copyright"></i> 2020 by Sistem Informasi Y.A.I</p>
+</div>
+</div>
 
 <!-- akhir footer -->
 
@@ -418,6 +430,9 @@ $(function(){
     
   });
 }); 
+$(function () {
+  $('[data-toggle="tooltip"]').tooltip()
+})
 
 </script>
 
