@@ -296,18 +296,21 @@ h3 {
 /* akhir navigasi */
 /* galeri */
 .galerii {
-	height: 300px;
-	width: 300px;
-	
+    height: 300px;
+    width: 300px;
+
 }
+
 .teksgaleri {
-	color: black;
+    color: black;
 }
+
 /* akhir galeri */
 /*tentang halaman struktur */
 .bgtentang {
-	background-color: white;
+    background-color: white;
 }
+
 /*akhir tentang halaman struktur*/
 
 /*  footer */
@@ -366,3 +369,28 @@ h3 {
 /* akhir css */
 
 
+@import "https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css";
+
+/*Pengaturan Isi pada Card*(Tidak Begitu Penting)*/
+#card-content {
+    padding: 12px 44px;
+}
+
+/*Pengaturan Tittle pada Card*/
+#card-title {
+    font-family: "Raleway Thin", all;
+    letter-spacing: 4px;
+    padding-bottom: 10px;
+    padding-top: 13px;
+    text-align: center;
+}
+
+/*Untuk Pengaturan Tombol login...*/
+.btn-login {
+    float: right;
+    background: none;
+    border: 2px solid skyblue;
+    background-color: skyblue;
+    margin-right: 50px;
+
+}

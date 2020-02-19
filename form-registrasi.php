@@ -29,9 +29,9 @@
   <body>
 <form action="action_page.php">
     <div class="container">
-        <h1>REGISTRASI</h1>
-        <p1>Menjadi Anggota Ishlah</p1>
-        <hr>
+        <h1 class="text-center">REGISTRASI</h1>
+        <p class="text-center">Menjadi Anggota Ishlah</p>
+        <hr class="bg-primary" >
 
         <form>
   <div class="row">
@@ -67,7 +67,7 @@
     </div>
   <div class="form-group">
     <label for="telephone">Nomor Telepon</label>
-    <input type="number" class="form-control" id="1234567890" placeholder="Nomor Telepon">
+    <input type="text" class="form-control" id="1234567890" placeholder="Nomor Telepon">
   </div>
   <div class="form-group">
     <label for="email">Email</label>
@@ -144,10 +144,13 @@
 </div>
 </form>
 <br>
-    
+  
     </div>
   </div>
-  <button type="submit" class="btn btn-primary">SUBMIT</button>
+  
+  <div class="container text-right">
+  <button type="submit" class="btn btn-primary ">SUBMIT</button>
+  </div>  
 </form>
 <br>
      </body>
