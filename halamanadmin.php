@@ -101,12 +101,8 @@
 </footer>
 <!-- akhir footer -->
     <!-- Optional JavaScript -->
-    <!-- footer -->
-<footer>
-<p class="text-center">copyright 2020 by Sistem Informasi Y.A.I</p>
 
-</footer>
-<!-- akhir footer -->
+
     
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="js/jquery-3.4.1.min.js" ></script>

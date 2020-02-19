@@ -18,7 +18,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.theme.min.css">    
     <!-- google fonts -->
     <link href="https://fonts.googleapis.com/css?family=Poppins:200,400,600,700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="admin.css">
+    <link rel="stylesheet" href="css/admin.css">
     <link rel="icon" href="img/logo.png">
     <title> Buat Artikel</title>
 
@@ -64,6 +64,7 @@
 </form>
 </div>
 </div>
+
     <!-- footer -->
 <footer>
 <p class="text-center">copyright 2020 by Sistem Informasi Y.A.I</p>

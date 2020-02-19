@@ -18,7 +18,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.theme.min.css">    
     <!-- google fonts -->
     <link href="https://fonts.googleapis.com/css?family=Poppins:200,400,600,700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="css/admin.css">
+    <link rel="stylesheet" href="admin.css">
     <link rel="icon" href="img/logo.png">
     <title>  LDK ISHLAH Y.A.I</title>
 
@@ -69,20 +69,21 @@
 <div class="row no-gutters">
 
 <div class="col-md-2 bg-light ">
-<ul class="nav flex-column pt-2"><br>
-  <li><a href="" class="nav-link text-dark "><img src="img/1434228.png">&nbsp Postingan</a></li>
+<ul class="nav flex-column pt-2">
+  <li><a href="" class="nav-link text-dark "><i class="fas fa-tachometer-alt mr-3 ml-1"></i>Dashboard</a> <hr class="bg-secondary "></li>
 </ul>
 <ul class="nav flex-column ">
-  <li><a href="" class="nav-link text-dark"><img src="img/1434281-1.png">&nbsp Tambah Foto</a></li>
+  <li><a href="buatartikel.php" class="nav-link text-dark"><i class="fas fa-user-edit mr-3 ml-1"></i>Buat Artikel</a> <hr class="bg-secondary "></li>
 </ul>
 <ul class="nav flex-column ">
-  <li><a href="" class="nav-link text-dark"><img src="img/1434217.png">&nbsp Pengaturan</a></li>
+  <li><a href="" class="nav-link text-dark"><i class="fas fa-images mr-3 ml-1"></i>Tambah Foto</a> <hr class="bg-secondary "></li>
 </ul>
 <ul class="nav flex-column pt-5">
   <li></li>
 </ul>
 
 </div>
+
 
 <div class="col-md-10  d-inline-block" style="background-color:#C9D8CE; "><br><br>
 &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<button type="button" class="btn btn-info">Buat Baru</button>
@@ -129,51 +130,10 @@
 </div>
 
 <!-- akhir content -->
+<footer>
+<p class="text-center">copyright <i class="far fa-copyright"></i> 2020 by Sistem Informasi Y.A.I</p>
 
-<!-- footer -->
-<footer class="footer"> 
-
-<div class="container">
-<div class="row">
-<div class="col">
-<p class="moto pt-2">"Together Be Better" </p>
-<hr/ class="garis">
-</div>
-</div>
-<div class="row pb-5">
-<div class="col-4 pt-2">
-
-
-<h1 class="font-weight-bold   ">Sekretariat</>
-<p>Jl. Diponegoro No. 74 Jakarta Pusat, 
-Indonesia </p>
-
-</div>
-
-<div class="col-5 offset-3 text-right    pt-5">
-    <a href="">
-      <img src="img/fb.png" alt="">
-    </a>
-    <a href="">
-      <img src="img/ig.png" alt="">
-    </a>
-    <a href="">
-      <img src="img/twitter.png" alt="">
-    </a>
-</div>
-
-</div>
-</div>
-  </footer>
-
-<div class="subfooter row">
-
-<div class="col text-center">
-  <p>Copyright <i class="far fa-copyright"></i> 2020 by Sistem Informasi Y.A.I</p>
-</div>
-</div>
-
-<!-- akhir footer -->
+</footer>
 
 
 
