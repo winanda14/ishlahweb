@@ -40,19 +40,19 @@
   <div class="collapse navbar-collapse" id="navbarNav">
     <ul class="navbar-nav mx-auto">
       <li class="nav-item active">
-        <a class="nav-link " href="#" >Beranda <span class="sr-only">(current)</span></a>
+        <a class="nav-link " href="index.php" >Beranda <span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Profile</a>
+        <a class="nav-link" href="profile.php">Profile</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Artikel</a>
+        <a class="nav-link" href="artikel.php">Artikel</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Struktur</a>
+        <a class="nav-link" href="struktur.php">Struktur</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Gallery</a>
+        <a class="nav-link" href="galeri.php">Gallery</a>
       </li>
     </ul>
   </div>
