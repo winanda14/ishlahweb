@@ -18,7 +18,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.theme.min.css">    
     <!-- google fonts -->
     <link href="https://fonts.googleapis.com/css?family=Poppins:200,400,600,700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="css/admin.css">
+    <link rel="stylesheet" href="admin.css">
     <link rel="icon" href="img/logo.png">
     <title>  LDK ISHLAH Y.A.I</title>
 
@@ -29,7 +29,7 @@
   <body>
     <!-- navbar -->
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark m-auto">
-  <a class="navbar-brand text-center" href="#">HALAMAN ADMIN</a>
+  <a class="navbar-brand text-center" href="halamanadmin.php">HALAMAN ADMIN</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
@@ -46,17 +46,21 @@
 
 <div class="col-md-2 bg-light ">
 <ul class="nav flex-column pt-2">
-  <li><a href="" class="nav-link text-dark "><i class="fas fa-tachometer-alt mr-3 ml-1"></i>Dashboard</a> <hr class="bg-secondary "></li>
+  <li><a href="halamanadmin.php" class="nav-link text-dark "><i class="fas fa-tachometer-alt mr-3 ml-1"></i>Dashboard</a> <hr class="bg-secondary "></li>
 </ul>
 <ul class="nav flex-column ">
-  <li><a href="" class="nav-link text-dark"><i class="fas fa-user-edit mr-3 ml-1"></i>Buat Artikel</a> <hr class="bg-secondary "></li>
+  <li><a href="postingan.php" class="nav-link text-dark"><i class="fas fa-user-edit mr-3 ml-1"></i>Buat Artikel</a> <hr class="bg-secondary "></li>
 </ul>
 <ul class="nav flex-column ">
-  <li><a href="" class="nav-link text-dark"><i class="fas fa-images mr-3 ml-1"></i>Tambah Foto</a> <hr class="bg-secondary "></li>
+  <li><a href="tambahfoto.php" class="nav-link text-dark"><i class="fas fa-images mr-3 ml-1"></i>Tambah Foto</a> <hr class="bg-secondary "></li>
+</ul>
+<ul class="nav flex-column ">
+  <li><a href="data-pendaftar.php" class="nav-link text-dark"><i class="fas fa-database mr-3 ml-1"></i></i>Data Pendaftar</a> <hr class="bg-secondary "></li>
 </ul>
 <ul class="nav flex-column pt-5">
   <li></li>
 </ul>
+<a href="halamanadmin.php" class="pt-4 text-dark"><i class="fas fa-chevron-circle-left "></i> back to home </a>
 
 </div>
 
@@ -188,7 +192,7 @@
 <div class="col text-center">
   <p>Copyright <i class="far fa-copyright"></i> 2020 by Sistem Informasi Y.A.I</p>
 </div>
-</div>
+</i>
 <!--Akhir Footer-->
 
     <!-- Optional JavaScript -->

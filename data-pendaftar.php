@@ -29,7 +29,7 @@
   <body>
     <!-- navbar -->
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark m-auto">
-  <a class="navbar-brand text-center" href="#">HALAMAN ADMIN</a>
+  <a class="navbar-brand text-center" href="halamanadmin.php">HALAMAN ADMIN</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
@@ -119,8 +119,10 @@
   </tbody>
 </table>
 <!-- akhir data pendaftar -->
+<a href="halamanadmin.php" class="text-dark "><i class="fas fa-chevron-circle-left"></i> back to home </a>
 
 <!-- footer -->
+
 <br><br><br><br>
 <footer>
 <p class="text-center">copyright <i class="far fa-copyright"></i> 2020 by Sistem Informasi Y.A.I</p>

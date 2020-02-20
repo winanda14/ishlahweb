@@ -147,8 +147,8 @@
   
   <img class="card-img-top" src="img/masjid.png" alt="Card image cap">
   <div class="card-body">
-    <p class="card-text">"One day one hadist : Keutamaan 
-Membaca Al-Qur'an"</p>
+    <a href="isiartikel.php"><p class="card-text">"One day one hadist : Keutamaan 
+Membaca Al-Qur'an"</p> </a>
     </div>
     </div>
     </div>
@@ -157,8 +157,8 @@ Membaca Al-Qur'an"</p>
   
   <img class="card-img-top" src="img/Gambar-Al-Quran-8.jpg" alt="Card image cap">
   <div class="card-body">
-    <p class="card-text">"One day one hadist : Keutamaan 
-Membaca Al-Qur'an"</p>
+    <a href="isiartikel2.php"><p class="card-text">"One day one hadist : Keutamaan 
+Membaca Al-Qur'an"</p></a>
     </div>
     </div>
     </div>
@@ -168,8 +168,8 @@ Membaca Al-Qur'an"</p>
   
   <img class="card-img-top" src="img/kid-1.png" alt="Card image cap">
   <div class="card-body">
-    <p class="card-text">"One day one hadist : Keutamaan 
-Membaca Al-Qur'an"</p>
+    <a href="isiartikel3.php"><p class="card-text">"One day one hadist : Keutamaan 
+Membaca Al-Qur'an"</p></a>
     </div>
     </div>
     </div>

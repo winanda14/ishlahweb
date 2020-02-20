@@ -64,7 +64,7 @@
 </form>
 </div>
 </div>
-
+<a href="halamanadmin.php" class="pt-4 text-dark"><i class="fas fa-chevron-circle-left "></i> back to home </a>
     <!-- footer -->
 <footer>
 <p class="text-center">copyright 2020 by Sistem Informasi Y.A.I</p>

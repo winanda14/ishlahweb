@@ -29,7 +29,7 @@
   <body>
     <!-- navbar -->
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark m-auto">
-  <a class="navbar-brand text-center" href="#">HALAMAN ADMIN</a>
+  <a class="navbar-brand text-center" href="halamanadmin.php">HALAMAN ADMIN</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
@@ -49,10 +49,13 @@
   <li><a href="" class="nav-link text-dark "><i class="fas fa-tachometer-alt mr-3 ml-1"></i>Dashboard</a> <hr class="bg-secondary "></li>
 </ul>
 <ul class="nav flex-column ">
-  <li><a href="buatartikel.php" class="nav-link text-dark"><i class="fas fa-user-edit mr-3 ml-1"></i>Buat Artikel</a> <hr class="bg-secondary "></li>
+  <li><a href="postingan.php" class="nav-link text-dark"><i class="fas fa-user-edit mr-3 ml-1"></i>Buat Artikel</a> <hr class="bg-secondary "></li>
 </ul>
 <ul class="nav flex-column ">
-  <li><a href="" class="nav-link text-dark"><i class="fas fa-images mr-3 ml-1"></i>Tambah Foto</a> <hr class="bg-secondary "></li>
+  <li><a href="tambahfoto.php" class="nav-link text-dark"><i class="fas fa-images mr-3 ml-1"></i>Tambah Foto</a> <hr class="bg-secondary "></li>
+</ul>
+<ul class="nav flex-column ">
+  <li><a href="data-pendaftar.php" class="nav-link text-dark"><i class="fas fa-database mr-3 ml-1"></i></i>Data Pendaftar</a> <hr class="bg-secondary "></li>
 </ul>
 <ul class="nav flex-column pt-5">
   <li></li>
@@ -63,31 +66,44 @@
 <div class="col-md-10  d-inline-block" style="background-color:#C9D8CE; ">
 <h3 class="pt-2 ml-3 ">Dashboard</h3>
 <hr style="border:3;">
-<div class="container">
-  <div class="content row">
+<div class="container ">
+  <div class="content row ">
     <div class="backgroundcard1 col">
-<div class="card " >
+<div class="card text-dark" >
   
-  <div class="card1 card-body">
+  <div class="card1 card-body text-dark">
     
-    <h2 class="card-text text-center">Buat Artikel</h2>
+    <a href="buatartikel.php" class="text-dark"><h2 class="card-text text-center">Buat Artikel</h2></a> 
     
     </div>
-    <p class="text-center">Buat Artikel</p>
+    <a href="buatartikel.php" class="text-dark"><p class="text-center text-dark">Buat Artikel</p></a>
     </div>
   </div>
   
   <div class="   col">
 <div class="card " >
   
-  <div class="card2 card-body">
+  <div class="card2 card-body text-dark">
     
-    <h2 class="card-text text-center">Tambah Foto</h2>
+    <a href="tambahfoto.php" class="text-dark"><h2 class="card-text text-center text-dark">Tambah Foto</h2></a>
     </div>
-    <p class="text-center">Tambah Foto</p>
+    <a href="tambahfoto.php" class="text-dark"><p class="text-center text-dark">Tambah Foto</p></a>
     </div>
   </div>
+  <div class="backgroundcard1 col">
+<div class="card " >
+  
+  <div class="card1 card-body">
+    
+    <a href="data-pendaftar.php" class="text-dark"><h2 class="card-text text-center text-dark">Data Pendaftar</h2></a>
+    
+    </div>
+    <a href="data-pendaftar.php" class="text-dark"><p class="text-center text-dark">Data Pendaftar</p></a>
+    </div>
+  </div>
+  
 </div>
+
 </div>
 </div>
 </div>

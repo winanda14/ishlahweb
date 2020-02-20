@@ -53,7 +53,7 @@
     <!-- navbar -->
 
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark m-auto">  
-  <a class="navbar-brand text-center" href="#">HALAMAN ADMIN</a>
+  <a class="navbar-brand text-center" href="halamanadmin.php">HALAMAN ADMIN</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
@@ -70,13 +70,16 @@
 
 <div class="col-md-2 bg-light ">
 <ul class="nav flex-column pt-2">
-  <li><a href="" class="nav-link text-dark "><i class="fas fa-tachometer-alt mr-3 ml-1"></i>Dashboard</a> <hr class="bg-secondary "></li>
+  <li><a href="halamanadmin.php" class="nav-link text-dark "><i class="fas fa-tachometer-alt mr-3 ml-1"></i>Dashboard</a> <hr class="bg-secondary "></li>
 </ul>
 <ul class="nav flex-column ">
-  <li><a href="buatartikel.php" class="nav-link text-dark"><i class="fas fa-user-edit mr-3 ml-1"></i>Buat Artikel</a> <hr class="bg-secondary "></li>
+  <li><a href="postingan.php" class="nav-link text-dark"><i class="fas fa-user-edit mr-3 ml-1"></i>Buat Artikel</a> <hr class="bg-secondary "></li>
 </ul>
 <ul class="nav flex-column ">
-  <li><a href="" class="nav-link text-dark"><i class="fas fa-images mr-3 ml-1"></i>Tambah Foto</a> <hr class="bg-secondary "></li>
+  <li><a href="tambahfoto.php" class="nav-link text-dark"><i class="fas fa-images mr-3 ml-1"></i>Tambah Foto</a> <hr class="bg-secondary "></li>
+</ul>
+<ul class="nav flex-column ">
+  <li><a href="data-pendaftar.php" class="nav-link text-dark"><i class="fas fa-database mr-3 ml-1"></i></i>Data Pendaftar</a> <hr class="bg-secondary "></li>
 </ul>
 <ul class="nav flex-column pt-5">
   <li></li>
@@ -86,7 +89,7 @@
 
 
 <div class="col-md-10  d-inline-block" style="background-color:#C9D8CE; "><br><br>
-&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<button type="button" class="btn btn-info">Buat Baru</button>
+&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp <a href="buatartikel.php"><button type="button" class="btn btn-info">Buat Baru</button></a>
 &nbsp &nbsp <button type="button" class="btn btn-danger">Delete</button><br><br>
 
 
